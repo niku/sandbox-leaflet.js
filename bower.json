@@ -1,0 +1,19 @@
+{
+  "name": "sandbox-leaflet.js",
+  "version": "0.0.1",
+  "authors": [
+    "niku <niku@niku.name>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
